@@ -1,0 +1,197 @@
+@media screen and (max-width:1400px) {
+    .box {
+        width: 25%;
+        padding: 10px;
+    }
+
+    .hero-section {
+        height: 350px;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .box {
+        width: 45%;
+        padding: 10px;
+    }
+
+    .navbar {
+        flex-wrap: wrap;
+        height: 120px;
+    }
+
+    .panel {
+        height: 90px;
+        flex-wrap: wrap;
+    }
+
+    .hero-section {
+        height: 300px;
+    }
+
+}
+
+@media screen and (max-width:900px) {
+    .navbar {
+        font-size: 0.65rem;
+    }
+
+    .nav-search {
+        height: 30px;
+        width: 500px;
+    }
+
+
+    .panel {
+        height: 60px;
+    }
+
+    .panel-opt {
+        font-size: 0.65rem;
+        justify-content: space-between;
+    }
+}
+
+@media screen and (max-width:750px) {
+    .hero-section {
+        height: 230px;
+    }
+
+    .navbar {
+        font-size: 0.55rem;
+    }
+
+    .panel-opt {
+        font-size: 0.55rem;
+    }
+
+    .hero-msg {
+        width: 80%;
+        font: 0.5rem;
+
+    }
+
+    .panel2 {
+        height: 250px;
+
+    }
+
+    .panel2 p {
+        font-size: 0.5rem;
+    }
+
+    .panel2 li {
+        font-size: 0.6rem;
+    }
+
+    .panel4 {
+        font-size: 0.65rem;
+    }
+
+    .panel3 {
+        height: 50px;
+    }
+
+    .logo {
+        height: 40px;
+        margin-top: 5px;
+        width: 80px;
+    }
+
+
+}
+
+@media screen and (max-width:650px) {
+
+    .hero-section {
+        height: 200px;
+
+    }
+
+    .navbar {
+        font-size: 0.5rem;
+    }
+}
+
+@media screen and (max-width:550px) {
+    .navbar {
+        font-size: 0.4rem;
+
+    }
+
+    .nav-search {
+        width: 400px;
+    }
+
+    .box {
+        width: 85%;
+        padding: 10px;
+    }
+
+}
+
+@media screen and (max-width:450px) {
+    .navbar {
+        font-size: 0.9rem;
+    }
+
+    .nav-search {
+        width: 300px;
+
+
+    }
+
+    .lang {
+        font-size: 0.6rem;
+    }
+
+    .search-inp {
+        font-size: 0.9rem;
+    }
+
+    .search-icon {
+        font-size: 0.9rem;
+    }
+
+
+
+    .panel2 li {
+        font-size: 0.5rem;
+    }
+
+    .panel3 {
+        height: 30px;
+    }
+
+    .logo {
+        height: 30px;
+        margin-top: 0px;
+        width: 60px;
+    }
+
+    .hero-section {
+        height: 150px;
+    }
+
+    .hero-msg {
+        font-size: 0.55em;
+        width: 90%;
+        height: 20px;
+    }
+}
+
+@media screen and (max-width:430px) {
+    .panel2 li {
+
+        font-size: 0.3rem;
+    }
+
+    .panel2 {
+        height: 190px;
+    }
+
+    .panel2 .list {
+        margin-top: 10px
+    }
+
+}
